@@ -1,1 +1,4 @@
 Hello
+annyeong
+konichiwa
+lol
